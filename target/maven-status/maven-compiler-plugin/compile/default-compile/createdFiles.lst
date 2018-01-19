@@ -12,7 +12,6 @@ com\niit\service\UsersServiceImpl.class
 com\niit\dao\BlogPostLikesDAOImpl.class
 com\niit\dao\FriendDao.class
 com\niit\configuration\DBConfiguartion.class
-com\niit\configuration\WebSocketConfiguration.class
 com\niit\model\Chat.class
 com\niit\controller\SockController.class
 com\niit\model\Notification.class
@@ -27,6 +26,7 @@ com\niit\dao\BlogPostLikesDAO.class
 com\niit\model\Error.class
 com\niit\controller\BlogPostController.class
 com\niit\dao\NotificationDaoImpl.class
+com\niit\configuration\WebSocketconfiguration.class
 com\niit\model\Friend.class
 com\niit\configuration\WebAppInitializer.class
 com\niit\configuration\WebConfig.class

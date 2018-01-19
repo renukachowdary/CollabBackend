@@ -29,7 +29,7 @@ D:\eclipse programs\Backend2\src\main\java\com\niit\dao\ProfilePictureDAO.java
 D:\eclipse programs\Backend2\src\main\java\com\niit\controller\SockController.java
 D:\eclipse programs\Backend2\src\main\java\com\niit\controller\FriendController.java
 D:\eclipse programs\Backend2\src\main\java\com\niit\model\BlogComment.java
-D:\eclipse programs\Backend2\src\main\java\com\niit\configuration\WebSocketConfiguration.java
+D:\eclipse programs\Backend2\src\main\java\com\niit\configuration\WebSocketconfiguration.java
 D:\eclipse programs\Backend2\src\main\java\com\niit\dao\FriendDaoImpl.java
 D:\eclipse programs\Backend2\src\main\java\com\niit\controller\JobController.java
 D:\eclipse programs\Backend2\src\main\java\com\niit\model\Chat.java

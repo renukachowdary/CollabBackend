@@ -1,4 +1,4 @@
-/*package com.niit.model;
+package com.niit.model;
 
 public class Chat {
 
@@ -38,4 +38,3 @@ public class Chat {
 	
 	
 }
-*/

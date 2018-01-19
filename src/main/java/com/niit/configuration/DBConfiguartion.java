@@ -12,6 +12,7 @@ import org.springframework.orm.hibernate5.HibernateTransactionManager;
 import org.springframework.orm.hibernate5.LocalSessionFactoryBuilder;
 
 import com.niit.model.BlogPost;
+import com.niit.model.Chat;
 import com.niit.model.Friend;
 import com.niit.model.Job;
 import com.niit.model.Notification;
@@ -56,6 +57,7 @@ public class DBConfiguartion {
 				sessionBuilder.addAnnotatedClass(Notification.class);
 				sessionBuilder.addAnnotatedClass(ProfilePicture.class);
 				sessionBuilder.addAnnotatedClass(Friend.class);
+				sessionBuilder.addAnnotatedClass(Chat.class);
 				sessionBuilder.scanPackages("com.niit");
 				
 				System.out.println("Session");
